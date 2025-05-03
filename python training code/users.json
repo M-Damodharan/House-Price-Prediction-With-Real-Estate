@@ -1,0 +1,13 @@
+{
+    "buyers": [
+        {
+            "name": "apple",
+            "email": "agathi@gmail.com"
+        },
+        {
+            "name": "apple",
+            "email": "agathi@gmail.com"
+        }
+    ],
+    "sellers": []
+}

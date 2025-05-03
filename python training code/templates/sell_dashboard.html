@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add House</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .card {
+            margin-top: 20px;
+        }
+
+        .property-list {
+            margin-top: 40px;
+        }
+
+        .img-thumbnail {
+            max-width: 100px;
+        }
+
+        .alert {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Add House</h1>
+        <div class="alert alert-success" id="successMessage">Property added successfully!</div>
+        <div class="card">
+            <div class="card-body">
+                <form id="houseForm">
+                    <div class="mb-3">
+                        <input
+                            type="file"
+                            name="image"
+                            accept="image/*"
+                            id="imageInput"
+                            required
+                            class="form-control"
+                        />
+                        <img id="imagePreview" alt="Preview" class="img-thumbnail mt-2" style="display: none;" />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="number"
+                            name="price"
+                            placeholder="Price"
+                            id="priceInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="text"
+                            name="title"
+                            placeholder="Property Title"
+                            id="titleInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="text"
+                            name="location"
+                            placeholder="Location"
+                            id="locationInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="number"
+                            name="area"
+                            placeholder="Area (Sqft)"
+                            id="areaInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="number"
+                            name="bedrooms"
+                            placeholder="Number of Bedrooms"
+                            id="bedroomsInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="number"
+                            name="bathrooms"
+                            placeholder="Number of Bathrooms"
+                            id="bathroomsInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="text"
+                            name="floor"
+                            placeholder="Floor"
+                            id="floorInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <input
+                            type="text"
+                            name="parking"
+                            placeholder="Parking (Yes/No)"
+                            id="parkingInput"
+                            required
+                            class="form-control"
+                        />
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-sm">Add Property</button>
+                </form>
+            </div>
+        </div>
+        
+        <div class="property-list mt-4">
+            <h2>Property List</h2>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Title</th>
+                        <th>Price</th>
+                        <th>Location</th>
+                        <th>Area (Sqft)</th>
+                        <th>Bedrooms</th>
+                        <th>Bathrooms</th>
+                        <th>Floor</th>
+                        <th>Parking</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="propertyContainer">
+                    <!-- Property rows will be added here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        const properties = []; // Array to store properties
+
+        // Load properties from local storage on page load
+        window.onload = function () {
+            const storedProperties = JSON.parse(localStorage.getItem('properties'));
+            if (storedProperties) {
+                properties.push(...storedProperties);
+                displayProperties(); // Display properties loaded from local storage
+            }
+        };
+
+        document.getElementById('houseForm').addEventListener('submit', function (e) {
+            e.preventDefault(); // Prevent default form submission
+
+            const imageInput = document.getElementById('imageInput');
+            const reader = new FileReader();
+            reader.onload = function (event) {
+                const propertyData = {
+                    image: event.target.result, // Store the Base64 string
+                    price: document.getElementById('priceInput').value,
+                    title: document.getElementById('titleInput').value,
+                    location: document.getElementById('locationInput').value,
+                    area: document.getElementById('areaInput').value,
+                    bedrooms: document.getElementById('bedroomsInput').value,
+                    bathrooms: document.getElementById('bathroomsInput').value,
+                    floor: document.getElementById('floorInput').value,
+                    parking: document.getElementById('parkingInput').value,
+                };
+
+                // Add the property data to the array
+                properties.push(propertyData);
+                localStorage.setItem('properties', JSON.stringify(properties)); // Update local storage
+                displayProperties(); // Update the property list
+
+                // Show success message
+                const successMessage = document.getElementById('successMessage');
+                successMessage.style.display = 'block';
+                setTimeout(() => {
+                    successMessage.style.display = 'none';
+                }, 3000); // Hide message after 3 seconds
+
+                // Reset the form after submission
+                document.getElementById('houseForm').reset();
+                document.getElementById('imagePreview').style.display = 'none';
+            };
+            reader.readAsDataURL(imageInput.files[0]); // Convert image to Base64 and trigger the onload function
+        });
+
+        // Image preview functionality
+        document.getElementById('imageInput').addEventListener('change', function (e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (event) {
+                    const imagePreview = document.getElementById('imagePreview');
+                    imagePreview.src = event.target.result;
+                    imagePreview.style.display = 'block';
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Function to display properties in a table format
+        function displayProperties() {
+            const propertyContainer = document.getElementById('propertyContainer');
+            propertyContainer.innerHTML = ''; // Clear previous entries
+
+            properties.forEach((property, index) => {
+                const propertyRow = document.createElement('tr');
+
+                propertyRow.innerHTML = `
+                    <td><img src="${property.image}" alt="Property Image" class="img-thumbnail"></td>
+                    <td>${property.title}</td>
+                    <td>$${property.price}</td>
+                    <td>${property.location}</td>
+                    <td>${property.area} Sqft</td>
+                    <td>${property.bedrooms}</td>
+                    <td>${property.bathrooms}</td>
+                    <td>${property.floor}</td>
+                    <td>${property.parking}</td>
+                    <td><button class="btn btn-danger btn-sm" onclick="deleteProperty(${index})">Delete</button></td>
+                `;
+
+                propertyContainer.appendChild(propertyRow);
+            });
+        }
+
+        // Function to delete a property
+        function deleteProperty(index) {
+            properties.splice(index, 1); // Remove the property from the array
+            localStorage.setItem('properties', JSON.stringify(properties)); // Update local storage
+            displayProperties(); // Update the property list
+        }
+    </script>
+
+    <!-- Bootstrap JS (optional, for enhanced functionality) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

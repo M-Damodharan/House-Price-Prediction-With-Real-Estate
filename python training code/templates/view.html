@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>View Products</title>
+    <style>
+        body { background-color: #f8f9fa; }
+        nav { background-color: #e5e5e5; padding: 10px; }
+        .container { margin-block-start: 30px; }
+        body {
+            background-image: url('static/img/bg5.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul class="nav">
+            <li class="nav-item"><a class="nav-link" href="/sell_dash">Add Products</a></li>
+            <li class="nav-item"><a class="nav-link" href="/view">View Products</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <h2>Products List</h2>
+        <div class="row" id="productList"></div>
+    </div>
+    
+    <script>
+        function displayProducts() {
+            const products = JSON.parse(localStorage.getItem('products')) || [];
+            const productList = document.getElementById('productList');
+
+            productList.innerHTML = ''; // Clear existing products
+
+            if (products.length === 0) {
+                productList.innerHTML = '<p>No products available.</p>';
+                return;
+            }
+
+            products.forEach((product, index) => {
+                const card = `
+                    <div class="col-md-4">
+                        <div class="card mb-4 shadow-sm">
+                            <img src="${product.img}" class="card-img-top" alt="${product.name}">
+                            <div class="card-body">
+                                <h5 class="card-title">${product.name}</h5>
+                                <p class="card-text"><strong>Type:</strong> ${product.prod_type}</p>
+                                <p class="card-text"><strong>Farmer Number:</strong> ${product.shop}</p>
+                                <p class="card-text"><strong>Price:</strong> $${parseFloat(product.price).toFixed(2)}</p>
+                                <p class="card-text"><strong>Location:</strong> ${product.loc}</p>
+                                <p class="card-text"><strong>Address:</strong> ${product.desc}</p>
+                                <button class="btn btn-danger" onclick="deleteProduct(${index})">Delete</button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                productList.insertAdjacentHTML('beforeend', card);
+            });
+        }
+
+        function deleteProduct(index) {
+            if (confirm('Are you sure you want to delete this product?')) {
+                const products = JSON.parse(localStorage.getItem('products')) || [];
+                products.splice(index, 1); // Remove product from array
+                localStorage.setItem('products', JSON.stringify(products)); // Update localStorage
+                displayProducts(); // Refresh the product list
+                alert('Product deleted successfully!');
+            }
+        }
+
+        window.onload = displayProducts;
+    </script>
+</body>
+</html>

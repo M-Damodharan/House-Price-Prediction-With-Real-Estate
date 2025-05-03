@@ -1,0 +1,1001 @@
+BHK,Build_Area,Total_Floors,Parking,Furnishing,Location,Price
+4,1883,14,No,Semi-Furnished,San Antonio,1135187
+1,2324,1,Yes,Furnished,Phoenix,336096
+2,2727,14,Yes,Unfurnished,San Antonio,828012
+5,3846,10,No,Furnished,Dallas,2878422
+3,1494,18,No,Furnished,Phoenix,696629
+3,4650,1,Yes,Semi-Furnished,San Diego,2082180
+1,2864,19,Yes,Semi-Furnished,Los Angeles,448756
+1,3728,9,No,Semi-Furnished,San Antonio,560353
+2,4890,3,Yes,Furnished,San Jose,1469676
+2,3907,15,No,Semi-Furnished,Philadelphia,1194511
+5,1966,3,No,Furnished,Houston,1472666
+3,3589,14,Yes,Furnished,Houston,1629255
+5,3183,5,Yes,Unfurnished,San Diego,2385773
+1,1643,11,Yes,Unfurnished,Philadelphia,246978
+2,2461,4,No,Unfurnished,Philadelphia,753797
+4,2482,5,No,Unfurnished,Chicago,1507526
+1,4262,13,No,Semi-Furnished,Houston,667559
+1,2436,12,No,Unfurnished,San Diego,385524
+2,3619,6,No,Semi-Furnished,Philadelphia,1099208
+2,2836,11,Yes,Unfurnished,Los Angeles,859621
+5,4820,17,Yes,Unfurnished,San Antonio,3627859
+5,3115,8,No,Furnished,Houston,2336118
+5,3994,6,Yes,Semi-Furnished,New York,3011653
+2,520,6,No,Furnished,Chicago,176207
+5,4557,13,Yes,Furnished,Houston,3426308
+2,4267,9,Yes,Furnished,San Antonio,1300581
+4,2187,14,No,Unfurnished,Dallas,1316143
+2,1921,6,Yes,Semi-Furnished,San Diego,595022
+1,2451,9,No,Semi-Furnished,Dallas,391217
+2,3334,2,Yes,Furnished,San Jose,995115
+3,4308,5,Yes,Furnished,Phoenix,1952151
+3,1047,9,Yes,Unfurnished,Chicago,483422
+3,4528,16,No,Unfurnished,Dallas,2035513
+5,4311,11,Yes,Semi-Furnished,San Antonio,3236915
+4,4563,14,Yes,Furnished,Chicago,2766940
+3,4505,13,Yes,Semi-Furnished,New York,2044414
+3,3460,9,No,Furnished,San Antonio,1581666
+3,1623,6,Yes,Furnished,Los Angeles,757976
+4,4280,15,No,Semi-Furnished,San Diego,2582104
+4,3395,1,No,Unfurnished,San Jose,2052308
+2,3628,12,Yes,Furnished,San Antonio,1113479
+1,2299,16,Yes,Unfurnished,San Jose,385547
+4,4085,2,No,Furnished,San Antonio,2435003
+2,4098,13,Yes,Furnished,San Antonio,1266396
+1,2609,4,No,Semi-Furnished,Philadelphia,383070
+2,1675,18,Yes,Semi-Furnished,Philadelphia,528519
+5,2335,14,Yes,Unfurnished,Los Angeles,1787044
+4,959,14,Yes,Semi-Furnished,New York,588917
+2,1554,16,Yes,Furnished,New York,491311
+5,4327,2,No,Unfurnished,Houston,3267175
+5,4210,8,No,Semi-Furnished,Dallas,3183523
+5,2576,12,Yes,Unfurnished,San Antonio,1952095
+5,2471,16,No,Furnished,San Antonio,1875885
+4,4086,2,No,Furnished,Philadelphia,2442012
+2,4997,18,No,Furnished,Dallas,1497769
+1,4788,14,No,Unfurnished,Chicago,733730
+4,4233,13,Yes,Unfurnished,New York,2575446
+1,1806,13,Yes,Semi-Furnished,New York,296962
+2,3505,10,Yes,Unfurnished,San Antonio,1049829
+3,1590,4,Yes,Furnished,San Diego,725134
+5,4060,3,Yes,Unfurnished,New York,3063130
+4,1937,5,No,Furnished,Houston,1179044
+2,2842,5,No,Unfurnished,Phoenix,848079
+5,3045,10,No,Furnished,New York,2280012
+1,2546,3,Yes,Furnished,Houston,396460
+2,3082,7,No,Unfurnished,New York,916479
+1,1157,5,Yes,Unfurnished,Los Angeles,180361
+1,4089,2,Yes,Unfurnished,New York,616006
+3,589,10,No,Unfurnished,Philadelphia,279169
+3,2656,14,No,Furnished,New York,1205795
+4,2584,11,No,Unfurnished,Chicago,1563948
+2,1868,8,Yes,Unfurnished,Dallas,588416
+1,2299,3,No,Unfurnished,Philadelphia,353864
+3,506,11,Yes,Furnished,San Antonio,261289
+3,636,9,No,Unfurnished,Phoenix,275872
+2,4789,15,No,Semi-Furnished,Chicago,1469978
+5,3134,12,Yes,Furnished,Houston,2363890
+4,859,14,No,Furnished,Houston,509671
+5,1974,6,Yes,Semi-Furnished,Houston,1495740
+3,2395,17,No,Unfurnished,San Jose,1099432
+3,4406,6,Yes,Semi-Furnished,Los Angeles,1998988
+1,1415,8,Yes,Unfurnished,Dallas,241580
+4,3818,17,No,Furnished,San Jose,2313577
+5,1213,11,Yes,Semi-Furnished,San Antonio,942144
+1,1675,18,No,Furnished,Dallas,272602
+4,3843,6,No,Unfurnished,San Jose,2292551
+4,1838,13,No,Unfurnished,Philadelphia,1099052
+5,4457,12,No,Semi-Furnished,Houston,3350415
+1,617,13,Yes,Furnished,San Antonio,112437
+2,4858,15,No,Semi-Furnished,New York,1488759
+3,1471,19,Yes,Semi-Furnished,New York,677153
+4,2081,18,No,Semi-Furnished,Chicago,1285885
+3,4107,16,No,Unfurnished,Los Angeles,1883658
+1,2743,5,Yes,Furnished,Philadelphia,437769
+4,884,17,Yes,Furnished,Phoenix,536239
+3,1593,2,No,Unfurnished,Dallas,708680
+5,1306,1,No,Unfurnished,San Diego,962226
+2,2231,16,Yes,Unfurnished,San Antonio,705782
+1,529,17,Yes,Furnished,Phoenix,95735
+1,4712,17,No,Unfurnished,Chicago,733686
+5,1959,11,No,Furnished,Philadelphia,1486108
+1,3884,3,Yes,Semi-Furnished,Los Angeles,573975
+2,1768,3,Yes,Semi-Furnished,Dallas,545552
+4,3635,11,No,Furnished,San Antonio,2178882
+3,2239,6,No,Semi-Furnished,Chicago,1017358
+2,4507,19,Yes,Furnished,Philadelphia,1386620
+2,3123,18,No,Semi-Furnished,New York,935626
+3,3713,14,No,Unfurnished,Dallas,1683553
+3,1977,15,Yes,Unfurnished,San Antonio,901154
+4,2801,3,No,Furnished,San Antonio,1683772
+4,3437,13,Yes,Furnished,Chicago,2081884
+4,1778,13,Yes,Unfurnished,San Jose,1091031
+1,1374,13,No,Furnished,San Diego,234003
+3,2349,3,Yes,Furnished,San Antonio,1057026
+4,3465,19,Yes,Furnished,Chicago,2095332
+4,4768,18,Yes,Semi-Furnished,New York,2885699
+2,2617,18,Yes,Furnished,San Diego,825218
+1,4116,17,Yes,Semi-Furnished,Philadelphia,627845
+5,1386,17,No,Semi-Furnished,San Antonio,1076214
+5,2321,10,No,Semi-Furnished,Houston,1732349
+3,2088,3,Yes,Semi-Furnished,Dallas,953580
+2,2341,15,No,Semi-Furnished,Dallas,724428
+2,1593,11,No,Furnished,New York,503276
+4,850,10,No,Semi-Furnished,Phoenix,519451
+4,1072,11,No,Semi-Furnished,Houston,643209
+2,1486,10,Yes,Semi-Furnished,Los Angeles,458050
+1,1250,6,Yes,Unfurnished,Dallas,190371
+3,1947,9,Yes,Unfurnished,Houston,904684
+1,2210,2,Yes,Furnished,Houston,345136
+4,3744,9,Yes,Unfurnished,San Jose,2248526
+3,4861,17,No,Unfurnished,Chicago,2218288
+4,1133,7,Yes,Semi-Furnished,San Antonio,689335
+4,1881,3,Yes,Unfurnished,Phoenix,1148994
+3,637,1,Yes,Furnished,Houston,284316
+2,1967,13,No,Semi-Furnished,Phoenix,590535
+3,756,10,Yes,Furnished,Los Angeles,345577
+5,4361,1,No,Furnished,Houston,3277637
+3,3072,5,Yes,Unfurnished,San Jose,1378249
+4,1059,5,No,Furnished,Houston,627201
+3,2765,8,No,Semi-Furnished,San Jose,1265317
+4,2422,9,Yes,Furnished,Chicago,1464074
+3,1490,1,Yes,Semi-Furnished,San Antonio,677831
+2,3033,11,Yes,Unfurnished,San Jose,933712
+3,2452,3,Yes,Semi-Furnished,San Antonio,1105633
+1,4268,1,Yes,Semi-Furnished,San Jose,627438
+4,2127,5,Yes,Unfurnished,Philadelphia,1268685
+3,1760,4,Yes,Semi-Furnished,San Antonio,796268
+2,4406,19,No,Semi-Furnished,Philadelphia,1353609
+3,4212,14,Yes,Furnished,Philadelphia,1914759
+1,1852,8,No,Unfurnished,Philadelphia,285596
+3,3136,14,No,Furnished,San Antonio,1439086
+5,3461,2,No,Unfurnished,New York,2581946
+3,4224,1,Yes,Semi-Furnished,Phoenix,1906378
+1,1021,8,Yes,Furnished,Phoenix,150084
+5,4812,12,No,Unfurnished,Philadelphia,3621092
+1,4977,14,No,Furnished,Houston,745300
+4,3080,10,No,Semi-Furnished,San Jose,1840470
+1,2755,14,No,Semi-Furnished,San Jose,446377
+3,1974,2,No,Unfurnished,Phoenix,901720
+1,2934,6,Yes,Semi-Furnished,San Diego,457063
+5,1701,12,Yes,Furnished,New York,1278669
+5,2844,2,No,Unfurnished,Philadelphia,2118713
+3,1920,18,Yes,Unfurnished,Houston,893886
+1,3325,17,No,Furnished,Phoenix,496200
+1,3478,11,Yes,Furnished,Houston,543859
+5,1657,6,Yes,Semi-Furnished,Philadelphia,1263235
+5,1395,6,Yes,Unfurnished,San Antonio,1060562
+5,1870,8,Yes,Furnished,San Diego,1422290
+5,1788,5,No,Furnished,Houston,1326829
+2,680,12,No,Semi-Furnished,Philadelphia,214469
+3,1188,3,Yes,Semi-Furnished,Houston,534724
+4,4545,11,Yes,Semi-Furnished,Phoenix,2754582
+3,3201,17,No,Semi-Furnished,San Antonio,1438151
+2,1545,17,No,Semi-Furnished,San Antonio,478857
+4,2149,3,No,Semi-Furnished,San Jose,1283391
+2,4597,1,Yes,Furnished,San Jose,1397524
+5,603,9,No,Unfurnished,Philadelphia,444218
+3,860,19,Yes,Semi-Furnished,San Antonio,426836
+5,767,17,No,Furnished,Phoenix,608798
+2,3991,19,No,Unfurnished,New York,1222737
+3,1392,6,No,Furnished,Philadelphia,613769
+3,994,17,No,Furnished,Phoenix,478181
+4,4452,19,No,Furnished,San Antonio,2698979
+5,3262,18,No,Unfurnished,Houston,2459168
+5,1764,17,Yes,Unfurnished,New York,1350865
+1,1710,11,Yes,Unfurnished,San Jose,268676
+1,2101,19,No,Furnished,San Antonio,319863
+2,4017,8,No,Semi-Furnished,San Antonio,1210525
+4,2518,19,No,Furnished,San Antonio,1539398
+3,2912,19,Yes,Semi-Furnished,San Jose,1353159
+1,1615,13,Yes,Furnished,Los Angeles,249558
+2,2444,7,Yes,Furnished,Los Angeles,754554
+3,3797,18,No,Semi-Furnished,Houston,1726960
+1,4400,4,No,Furnished,Phoenix,656846
+4,2822,19,No,Unfurnished,Los Angeles,1699965
+3,564,4,No,Furnished,San Jose,242588
+4,610,2,No,Semi-Furnished,San Antonio,374366
+3,4148,4,Yes,Semi-Furnished,Chicago,1874523
+4,1332,19,Yes,Furnished,Los Angeles,834177
+2,2869,8,Yes,Unfurnished,San Antonio,875610
+1,2387,11,Yes,Semi-Furnished,San Diego,379023
+1,2232,17,Yes,Unfurnished,Los Angeles,368314
+5,4612,14,No,Semi-Furnished,San Jose,3475438
+2,4821,10,No,Unfurnished,Philadelphia,1455384
+3,2078,11,No,Unfurnished,Phoenix,963290
+3,3741,14,Yes,Unfurnished,Chicago,1686037
+1,3659,13,No,Unfurnished,San Jose,544107
+5,1322,6,Yes,Furnished,San Jose,991764
+2,3297,19,Yes,Furnished,Houston,1003623
+4,2467,16,No,Semi-Furnished,San Diego,1493679
+2,2576,6,Yes,Furnished,Los Angeles,779325
+3,871,12,No,Unfurnished,New York,397531
+1,2150,9,No,Unfurnished,San Antonio,322578
+5,1771,1,Yes,Furnished,Phoenix,1345140
+1,4842,17,No,Semi-Furnished,Chicago,761606
+3,2746,13,No,Semi-Furnished,Dallas,1233762
+2,4702,1,Yes,Furnished,New York,1401428
+2,1231,5,No,Furnished,San Diego,375635
+4,1982,2,No,Unfurnished,Houston,1189813
+2,4229,10,No,Semi-Furnished,Philadelphia,1274969
+3,3161,17,Yes,Furnished,San Antonio,1434853
+2,1744,8,Yes,Furnished,Houston,537454
+4,2903,19,Yes,Semi-Furnished,Chicago,1752763
+4,1680,15,No,Semi-Furnished,Dallas,1039492
+1,2083,5,No,Unfurnished,Phoenix,299501
+3,3913,11,No,Unfurnished,Chicago,1765820
+2,2690,12,No,Semi-Furnished,Philadelphia,826956
+2,4021,18,Yes,Furnished,San Diego,1247520
+3,1680,3,Yes,Semi-Furnished,Dallas,759155
+2,4794,2,Yes,Unfurnished,Philadelphia,1438558
+2,3272,1,No,Semi-Furnished,Philadelphia,1000062
+1,3677,9,No,Furnished,Houston,577620
+1,2477,10,No,Unfurnished,Philadelphia,389865
+5,2722,8,Yes,Furnished,San Antonio,2039461
+3,1679,8,No,Semi-Furnished,Los Angeles,767042
+1,3292,7,No,Unfurnished,San Antonio,497439
+4,4516,16,Yes,Furnished,Los Angeles,2721445
+3,1901,15,No,Furnished,Los Angeles,858198
+2,3664,11,No,Furnished,New York,1126967
+3,4876,19,No,Semi-Furnished,Houston,2218000
+5,2178,1,Yes,Furnished,San Jose,1647139
+2,2964,11,No,Unfurnished,New York,887157
+4,1708,10,Yes,Unfurnished,Houston,1029480
+5,3960,19,No,Semi-Furnished,Phoenix,2984711
+3,3676,10,No,Unfurnished,Los Angeles,1661769
+3,2750,6,Yes,Semi-Furnished,New York,1252590
+5,1904,16,Yes,Unfurnished,Dallas,1443950
+2,4905,7,Yes,Furnished,San Antonio,1479948
+1,2741,9,Yes,Unfurnished,San Antonio,436434
+1,1915,4,Yes,Unfurnished,Los Angeles,280995
+5,4489,6,No,Semi-Furnished,San Jose,3371751
+1,3670,4,No,Unfurnished,San Jose,573130
+2,4258,18,No,Semi-Furnished,San Jose,1313969
+1,4717,4,No,Furnished,Los Angeles,712761
+5,640,8,Yes,Semi-Furnished,Houston,492862
+1,2556,13,Yes,Semi-Furnished,Phoenix,400482
+4,2715,19,Yes,Semi-Furnished,Houston,1651620
+1,1716,5,No,Furnished,Los Angeles,278800
+4,3283,14,No,Furnished,San Diego,1991026
+2,2196,12,No,Unfurnished,Los Angeles,652908
+2,2688,16,Yes,Furnished,Dallas,808338
+1,3811,16,Yes,Furnished,Phoenix,575343
+1,4848,18,Yes,Unfurnished,Philadelphia,758905
+4,3057,9,No,Semi-Furnished,Chicago,1852342
+3,1225,4,No,Semi-Furnished,Los Angeles,558823
+3,4641,17,No,Furnished,San Antonio,2099508
+3,1701,16,Yes,Unfurnished,Houston,793953
+2,3754,6,No,Unfurnished,Chicago,1148367
+5,896,15,No,Furnished,Chicago,695805
+1,4829,16,No,Furnished,Los Angeles,722675
+2,742,7,No,Semi-Furnished,Chicago,214462
+5,892,12,No,Semi-Furnished,Chicago,677605
+3,3734,13,Yes,Unfurnished,San Diego,1693823
+1,4117,7,Yes,Unfurnished,Los Angeles,611356
+5,3769,17,No,Furnished,San Antonio,2851496
+1,1114,13,No,Semi-Furnished,San Diego,174406
+1,1255,7,No,Semi-Furnished,Phoenix,207318
+3,3613,15,No,Semi-Furnished,Chicago,1655517
+1,3086,3,No,Unfurnished,Phoenix,468157
+4,2150,16,No,Semi-Furnished,San Diego,1320387
+3,3900,14,No,Unfurnished,Dallas,1774343
+3,2745,19,Yes,Unfurnished,San Jose,1264302
+5,1723,11,No,Unfurnished,Los Angeles,1321347
+5,1478,5,No,Unfurnished,San Antonio,1107491
+3,3325,9,Yes,Unfurnished,Chicago,1499919
+3,2071,18,Yes,Furnished,Phoenix,960652
+2,2292,14,No,Furnished,San Jose,715271
+5,4438,16,Yes,Semi-Furnished,Phoenix,3330795
+2,2646,6,Yes,Furnished,Dallas,804583
+5,2692,6,Yes,Semi-Furnished,Philadelphia,2013833
+2,4754,18,No,Semi-Furnished,Dallas,1446800
+4,4508,1,No,Semi-Furnished,Chicago,2696780
+4,2406,17,Yes,Semi-Furnished,Philadelphia,1479018
+1,1096,10,Yes,Unfurnished,New York,183201
+2,3999,11,Yes,Semi-Furnished,New York,1220634
+2,1527,18,No,Unfurnished,Philadelphia,471914
+4,808,10,Yes,Semi-Furnished,Houston,498408
+1,3619,13,Yes,Furnished,Los Angeles,570179
+1,3099,15,Yes,Unfurnished,Philadelphia,493642
+3,4432,6,No,Unfurnished,New York,2003706
+2,4137,5,No,Unfurnished,Los Angeles,1261729
+4,1524,3,No,Furnished,San Diego,922680
+5,2508,7,No,Semi-Furnished,Dallas,1901823
+4,1554,11,No,Furnished,San Antonio,955455
+2,3231,16,Yes,Furnished,Chicago,1007621
+4,936,19,Yes,Unfurnished,Chicago,595672
+5,3533,12,Yes,Semi-Furnished,Philadelphia,2650565
+4,3404,16,No,Semi-Furnished,Los Angeles,2072651
+5,1214,16,No,Semi-Furnished,Los Angeles,937587
+4,2566,10,No,Unfurnished,Houston,1560899
+2,1018,2,Yes,Semi-Furnished,San Antonio,292747
+5,4662,9,No,Semi-Furnished,Los Angeles,3515548
+5,4466,15,Yes,Unfurnished,Dallas,3388849
+5,1310,12,Yes,Unfurnished,San Diego,995301
+2,4391,5,Yes,Semi-Furnished,Dallas,1341025
+1,4230,5,No,Semi-Furnished,San Antonio,629345
+1,890,14,No,Unfurnished,Dallas,162919
+1,3140,7,Yes,Unfurnished,San Diego,471240
+4,4526,8,No,Semi-Furnished,San Jose,2725407
+3,3283,15,No,Furnished,Houston,1506924
+1,3097,13,No,Semi-Furnished,Houston,462383
+2,3773,14,No,Furnished,Chicago,1144880
+4,2428,6,Yes,Semi-Furnished,Philadelphia,1476309
+3,2611,2,No,Unfurnished,Chicago,1173925
+5,691,8,No,Unfurnished,Los Angeles,507743
+4,4050,19,No,Furnished,San Jose,2449058
+4,1415,13,Yes,Semi-Furnished,San Diego,850143
+2,3455,14,No,Unfurnished,Phoenix,1050230
+3,4929,16,No,Semi-Furnished,Los Angeles,2217628
+1,3130,12,Yes,Unfurnished,Phoenix,474657
+1,2945,5,No,Unfurnished,Philadelphia,428736
+1,3973,12,No,Furnished,Los Angeles,595291
+4,3294,4,Yes,Semi-Furnished,New York,2000977
+4,4519,4,Yes,Furnished,San Antonio,2732526
+4,1465,12,No,Unfurnished,New York,874377
+2,3820,13,No,Semi-Furnished,San Jose,1140130
+5,1006,18,Yes,Furnished,Chicago,757717
+1,2065,14,Yes,Unfurnished,San Diego,314482
+1,2622,15,Yes,Semi-Furnished,Houston,403782
+3,1671,19,Yes,Unfurnished,Chicago,785269
+5,2126,19,No,Furnished,Philadelphia,1626670
+4,4991,18,Yes,Furnished,Chicago,3033070
+3,1748,16,No,Furnished,San Antonio,804958
+2,4672,16,No,Unfurnished,San Jose,1401540
+1,4028,6,No,Furnished,Phoenix,617732
+2,2062,3,Yes,Semi-Furnished,San Antonio,630089
+2,2135,13,No,Furnished,Los Angeles,659809
+5,2747,16,Yes,Semi-Furnished,San Jose,2095637
+2,1711,14,No,Unfurnished,Philadelphia,513162
+5,4107,8,No,Furnished,San Jose,3105873
+1,4861,9,Yes,Unfurnished,San Antonio,754882
+2,617,14,Yes,Unfurnished,San Diego,197935
+3,1391,2,Yes,Semi-Furnished,Los Angeles,648286
+1,2902,3,Yes,Semi-Furnished,Houston,425994
+5,4743,2,No,Semi-Furnished,Houston,3570522
+2,1159,15,No,Unfurnished,San Antonio,367507
+3,522,12,No,Semi-Furnished,Chicago,235657
+1,3801,9,Yes,Furnished,Phoenix,577219
+1,1613,11,No,Semi-Furnished,Dallas,256552
+3,3281,11,Yes,Semi-Furnished,New York,1507137
+1,2281,7,No,Furnished,Houston,345405
+1,4868,4,Yes,Unfurnished,San Antonio,733060
+2,3304,15,No,Unfurnished,Phoenix,1021586
+4,4888,16,Yes,Unfurnished,New York,2941633
+4,4412,12,No,Unfurnished,San Diego,2665773
+5,1902,16,No,Unfurnished,San Jose,1423661
+3,2644,9,No,Semi-Furnished,Los Angeles,1183228
+5,1753,14,Yes,Furnished,San Diego,1334051
+5,2589,11,No,Unfurnished,Phoenix,1934488
+5,4706,2,No,Semi-Furnished,San Diego,3541401
+5,585,10,No,Unfurnished,Dallas,428813
+1,4107,8,No,Unfurnished,Houston,611330
+4,3456,17,Yes,Furnished,San Jose,2110622
+4,3905,11,Yes,Furnished,Los Angeles,2349231
+1,978,11,No,Unfurnished,Houston,174398
+3,4291,5,No,Furnished,Chicago,1953403
+3,3360,16,Yes,Unfurnished,Phoenix,1525028
+5,2487,1,Yes,Semi-Furnished,San Diego,1867180
+2,4642,15,Yes,Furnished,Phoenix,1414022
+3,2810,1,No,Unfurnished,Philadelphia,1265993
+2,2867,19,Yes,Unfurnished,Los Angeles,870655
+4,3863,17,Yes,Semi-Furnished,Phoenix,2328199
+4,4711,13,No,Semi-Furnished,San Diego,2852662
+2,2834,15,No,Unfurnished,San Antonio,860761
+4,1041,17,Yes,Semi-Furnished,New York,664568
+5,4035,4,Yes,Semi-Furnished,Dallas,3032134
+1,3294,15,No,Unfurnished,Dallas,526824
+5,4882,4,No,Semi-Furnished,San Jose,3676969
+2,2909,17,Yes,Unfurnished,San Diego,879551
+3,3271,19,No,Unfurnished,Phoenix,1494025
+3,2868,10,Yes,Furnished,Phoenix,1288564
+3,2116,10,Yes,Unfurnished,San Jose,963747
+2,4870,13,No,Furnished,Houston,1478269
+2,1950,18,No,Semi-Furnished,San Antonio,595910
+4,1325,9,No,Unfurnished,Houston,797081
+1,2522,2,Yes,Furnished,Phoenix,397371
+2,3468,14,No,Unfurnished,San Antonio,1050305
+4,1767,1,No,Furnished,Chicago,1075806
+3,3831,16,Yes,Semi-Furnished,New York,1764022
+3,1860,9,No,Unfurnished,Houston,854983
+3,2056,16,Yes,Furnished,Los Angeles,932789
+2,4990,13,No,Furnished,Dallas,1521058
+5,1421,6,Yes,Unfurnished,San Diego,1078344
+5,3058,5,No,Unfurnished,Chicago,2299744
+5,4894,16,Yes,Unfurnished,Phoenix,3699741
+5,1176,19,Yes,Semi-Furnished,New York,920211
+5,3454,10,No,Semi-Furnished,Houston,2612330
+5,3352,17,No,Furnished,Philadelphia,2521887
+4,675,14,Yes,Unfurnished,Houston,416173
+5,2458,12,No,Furnished,San Diego,1850280
+4,1998,9,No,Semi-Furnished,San Diego,1207722
+2,3590,8,Yes,Furnished,San Diego,1093617
+5,4243,13,Yes,Furnished,Los Angeles,3187481
+3,1556,4,Yes,Unfurnished,San Antonio,723695
+1,3870,17,No,Furnished,San Diego,578504
+5,1037,2,Yes,Semi-Furnished,Dallas,800960
+3,4508,7,No,Semi-Furnished,Phoenix,2015968
+5,920,7,No,Semi-Furnished,San Diego,709022
+5,4357,6,Yes,Unfurnished,Dallas,3288917
+5,1559,13,No,Furnished,San Jose,1181745
+5,4498,11,Yes,Furnished,Dallas,3403787
+5,1845,3,No,Furnished,San Jose,1390191
+4,2968,15,No,Furnished,Los Angeles,1788731
+1,4835,16,No,Furnished,San Jose,758796
+2,595,9,No,Furnished,Philadelphia,172060
+3,3275,8,Yes,Semi-Furnished,San Diego,1471500
+5,4056,18,No,Furnished,San Antonio,3056027
+1,3705,19,No,Furnished,Los Angeles,558708
+5,1987,13,Yes,Semi-Furnished,New York,1522397
+2,814,5,Yes,Unfurnished,Los Angeles,268058
+5,4591,1,No,Semi-Furnished,Phoenix,3444590
+1,4698,17,No,Unfurnished,San Diego,711568
+1,4139,6,No,Furnished,San Jose,639084
+2,1013,8,No,Semi-Furnished,Houston,328382
+2,4947,5,No,Unfurnished,San Diego,1485549
+5,3096,16,No,Unfurnished,Chicago,2336213
+1,4287,1,Yes,Semi-Furnished,Philadelphia,655591
+4,4014,17,No,Semi-Furnished,Phoenix,2424618
+2,4389,17,Yes,Unfurnished,Phoenix,1329625
+4,4136,3,Yes,Furnished,San Antonio,2472479
+3,4990,13,No,Unfurnished,Philadelphia,2255259
+2,2984,7,Yes,Semi-Furnished,Chicago,903815
+3,1214,11,No,Furnished,San Jose,565736
+2,2844,18,Yes,Unfurnished,Dallas,858871
+4,1450,7,No,Furnished,New York,895305
+1,4922,6,Yes,Furnished,New York,758630
+2,3980,9,No,Unfurnished,New York,1213834
+1,3789,5,Yes,Unfurnished,San Jose,594349
+3,4808,11,No,Semi-Furnished,San Diego,2192966
+5,1047,14,Yes,Furnished,Houston,811370
+4,1285,16,Yes,Semi-Furnished,Los Angeles,776972
+2,3409,19,No,Furnished,Phoenix,1051138
+1,2155,10,Yes,Furnished,Los Angeles,332667
+5,3680,6,Yes,Furnished,New York,2786743
+1,4557,18,No,Furnished,Dallas,696750
+1,2443,3,Yes,Semi-Furnished,San Diego,381060
+2,1130,12,Yes,Furnished,Chicago,354604
+2,2761,7,Yes,Unfurnished,Chicago,840938
+1,765,11,No,Unfurnished,San Antonio,132425
+4,534,13,Yes,Furnished,Chicago,318477
+2,1265,8,No,Furnished,Phoenix,371148
+4,3403,11,Yes,Unfurnished,Los Angeles,2072608
+1,1618,8,Yes,Furnished,San Jose,266881
+1,4950,4,No,Unfurnished,Chicago,745020
+4,4110,10,No,Furnished,San Antonio,2474877
+3,708,14,Yes,Semi-Furnished,Houston,317901
+2,4548,8,No,Unfurnished,Chicago,1372952
+2,3881,12,Yes,Unfurnished,San Jose,1165028
+4,4362,1,Yes,Semi-Furnished,Los Angeles,2637996
+3,1631,19,No,Semi-Furnished,Phoenix,737389
+2,2027,11,Yes,Unfurnished,San Diego,616642
+3,1628,17,Yes,Unfurnished,Phoenix,735994
+3,1954,17,Yes,Furnished,San Jose,915671
+4,2399,10,No,Furnished,Phoenix,1464232
+1,4818,9,No,Furnished,Dallas,748938
+2,2404,10,Yes,Semi-Furnished,San Diego,717531
+5,3984,19,No,Furnished,Houston,2994538
+3,791,7,No,Semi-Furnished,New York,355806
+3,2560,14,No,Semi-Furnished,Chicago,1177847
+1,3205,14,Yes,Unfurnished,Dallas,501030
+1,1009,4,Yes,Semi-Furnished,San Jose,173889
+1,2882,12,No,Furnished,San Diego,447366
+2,1494,17,No,Unfurnished,Phoenix,452363
+4,2098,1,Yes,Furnished,San Jose,1247291
+4,4554,18,No,Semi-Furnished,Dallas,2752951
+1,3010,1,Yes,Furnished,Philadelphia,446538
+1,1550,14,No,Furnished,New York,238613
+2,663,9,Yes,Semi-Furnished,Los Angeles,227923
+1,1878,1,No,Semi-Furnished,Philadelphia,278802
+1,1833,14,No,Furnished,Phoenix,280506
+2,1015,19,No,Semi-Furnished,New York,306691
+3,3923,6,No,Unfurnished,Houston,1759566
+5,3397,7,Yes,Unfurnished,Los Angeles,2554526
+3,1594,8,No,Semi-Furnished,Los Angeles,732637
+5,3419,1,No,Semi-Furnished,Phoenix,2546480
+5,3394,19,No,Furnished,Chicago,2545779
+4,1034,3,Yes,Unfurnished,San Jose,624816
+3,554,13,Yes,Furnished,San Diego,266910
+4,1141,18,Yes,Semi-Furnished,San Antonio,725111
+2,3324,2,Yes,Unfurnished,San Antonio,1001834
+1,3116,1,No,Semi-Furnished,New York,450771
+2,4744,13,Yes,Semi-Furnished,Philadelphia,1459889
+2,3569,8,Yes,Semi-Furnished,Los Angeles,1082821
+5,4253,11,No,Furnished,New York,3189572
+2,3896,16,No,Unfurnished,Philadelphia,1187789
+3,3070,13,Yes,Semi-Furnished,Chicago,1417552
+1,977,16,Yes,Semi-Furnished,Los Angeles,152302
+3,1978,16,No,Furnished,Philadelphia,900854
+2,2725,3,No,Unfurnished,New York,825849
+5,3792,5,No,Furnished,Philadelphia,2834282
+1,1002,19,No,Unfurnished,Philadelphia,169286
+5,3744,2,No,Furnished,Phoenix,2825084
+3,1218,19,No,Unfurnished,San Diego,562828
+1,4603,12,Yes,Unfurnished,Los Angeles,696632
+5,2214,4,Yes,Furnished,San Antonio,1683624
+3,4075,17,Yes,Unfurnished,Chicago,1853450
+5,2115,19,No,Unfurnished,Dallas,1595920
+2,4094,1,No,Furnished,Los Angeles,1232185
+3,1578,1,No,Furnished,Philadelphia,704805
+4,3004,13,Yes,Semi-Furnished,New York,1811214
+1,3101,9,Yes,Unfurnished,San Antonio,468526
+5,3289,14,No,Semi-Furnished,Dallas,2490059
+2,3114,10,Yes,Semi-Furnished,Dallas,956584
+4,2691,14,Yes,Furnished,Chicago,1640472
+3,600,16,Yes,Unfurnished,Philadelphia,290663
+3,1900,10,No,Furnished,Chicago,884762
+3,2915,19,Yes,Unfurnished,Houston,1343531
+4,3678,11,Yes,Unfurnished,San Jose,2211610
+3,1435,16,No,Unfurnished,Chicago,642106
+4,1527,6,Yes,Semi-Furnished,San Diego,945156
+3,3864,2,Yes,Unfurnished,San Antonio,1731784
+5,859,8,No,Furnished,Dallas,671421
+3,2652,16,Yes,Semi-Furnished,Los Angeles,1215371
+1,4320,8,No,Furnished,Los Angeles,672577
+1,1292,2,No,Furnished,Houston,192513
+3,3462,17,Yes,Semi-Furnished,San Jose,1585518
+5,2241,3,Yes,Semi-Furnished,San Antonio,1678709
+3,4280,17,No,Semi-Furnished,Houston,1959470
+2,2160,18,Yes,Unfurnished,San Antonio,655191
+2,3960,16,Yes,Furnished,San Jose,1226331
+1,3259,7,Yes,Furnished,Phoenix,502310
+1,4055,12,Yes,Unfurnished,Dallas,637199
+4,1550,12,No,Unfurnished,Philadelphia,942405
+2,3805,2,No,Semi-Furnished,New York,1150937
+4,2925,11,Yes,Furnished,Phoenix,1752061
+5,2395,18,No,Unfurnished,San Jose,1795088
+5,4260,11,No,Unfurnished,San Antonio,3204390
+2,4302,16,Yes,Furnished,Chicago,1318912
+2,4699,11,No,Furnished,Los Angeles,1435360
+1,746,19,Yes,Unfurnished,San Diego,143585
+5,2037,6,No,Semi-Furnished,Houston,1533263
+4,4856,17,No,Semi-Furnished,San Jose,2927815
+2,531,13,Yes,Unfurnished,San Diego,178910
+1,4422,6,No,Semi-Furnished,San Diego,676723
+1,888,12,No,Furnished,San Jose,165066
+5,1219,14,Yes,Furnished,San Diego,943890
+3,1344,19,No,Unfurnished,Houston,632733
+1,4517,13,No,Furnished,New York,693743
+3,4568,11,No,Semi-Furnished,San Antonio,2070405
+2,1741,6,No,Unfurnished,San Diego,510681
+5,1815,4,Yes,Semi-Furnished,Dallas,1357924
+3,4709,7,Yes,Unfurnished,Los Angeles,2147978
+4,896,17,No,Unfurnished,Chicago,559685
+5,1379,16,No,Semi-Furnished,Dallas,1036880
+3,2827,14,No,Furnished,New York,1303596
+1,4712,3,Yes,Semi-Furnished,New York,716968
+3,1484,9,Yes,Unfurnished,Houston,668402
+2,3714,7,Yes,Semi-Furnished,Phoenix,1110680
+4,3124,12,No,Unfurnished,San Antonio,1886156
+3,4880,7,No,Unfurnished,Phoenix,2201696
+5,2949,6,Yes,Furnished,Houston,2235198
+3,2540,4,Yes,Semi-Furnished,Dallas,1159414
+4,706,16,No,Furnished,Philadelphia,429155
+5,675,17,No,Unfurnished,Phoenix,506449
+4,4651,12,No,Semi-Furnished,San Jose,2804517
+2,4202,13,Yes,Furnished,Phoenix,1292591
+1,2906,16,No,Unfurnished,Houston,437362
+3,4608,5,Yes,Semi-Furnished,Philadelphia,2100052
+4,3353,16,No,Unfurnished,Phoenix,2008784
+5,793,1,No,Furnished,San Diego,581767
+1,2649,14,Yes,Semi-Furnished,Chicago,400450
+5,617,18,No,Unfurnished,Philadelphia,472527
+5,1955,3,Yes,Furnished,San Antonio,1491949
+3,662,8,Yes,Semi-Furnished,New York,301890
+3,2080,1,Yes,Semi-Furnished,San Antonio,937307
+5,3350,5,Yes,Unfurnished,San Diego,2521266
+5,1516,18,No,Semi-Furnished,San Diego,1173749
+5,4055,1,Yes,Furnished,San Jose,3061108
+5,4013,18,Yes,Furnished,Chicago,3022864
+4,4833,16,Yes,Semi-Furnished,Los Angeles,2936244
+1,2898,2,Yes,Furnished,San Jose,433421
+4,1655,14,Yes,Unfurnished,Philadelphia,1025309
+3,4865,10,No,Furnished,San Diego,2183172
+4,4609,15,Yes,Semi-Furnished,San Antonio,2767140
+5,2865,1,No,Unfurnished,Chicago,2165465
+4,2996,7,No,Furnished,San Antonio,1821444
+5,4792,13,No,Semi-Furnished,Chicago,3591866
+5,1157,13,Yes,Unfurnished,Phoenix,893822
+3,1340,19,Yes,Furnished,Los Angeles,638324
+3,1520,19,No,Furnished,San Antonio,690239
+3,1649,2,No,Semi-Furnished,Houston,744183
+4,4792,9,Yes,Furnished,Phoenix,2876737
+5,4794,1,No,Unfurnished,San Diego,3591591
+5,3387,5,No,Semi-Furnished,Dallas,2547506
+2,2798,7,No,Furnished,San Diego,846586
+5,993,10,No,Unfurnished,Los Angeles,767149
+4,4380,5,Yes,Unfurnished,San Jose,2655225
+2,3627,14,No,Semi-Furnished,San Antonio,1104424
+4,637,1,Yes,Unfurnished,Dallas,393220
+3,2317,5,Yes,Unfurnished,Los Angeles,1043754
+5,4478,17,No,Semi-Furnished,Philadelphia,3383340
+3,3490,6,No,Furnished,Dallas,1576547
+2,4372,6,No,Semi-Furnished,Chicago,1299615
+4,2501,13,Yes,Furnished,San Jose,1503981
+2,3413,9,Yes,Furnished,Chicago,1024065
+1,884,10,Yes,Unfurnished,Los Angeles,137855
+2,2630,6,Yes,Unfurnished,Chicago,812737
+3,3830,17,Yes,Furnished,Philadelphia,1751667
+2,3333,7,No,Semi-Furnished,Chicago,1019209
+2,1209,10,No,Semi-Furnished,San Antonio,361718
+1,4734,9,No,Furnished,San Diego,733934
+1,1292,1,No,Unfurnished,New York,183573
+1,4510,7,Yes,Furnished,Dallas,669986
+2,4582,16,No,Unfurnished,Phoenix,1377009
+5,1776,7,Yes,Furnished,San Diego,1344693
+2,1627,9,Yes,Furnished,Chicago,483564
+2,1293,19,Yes,Unfurnished,San Diego,399174
+4,1480,15,Yes,Furnished,New York,902243
+4,3676,7,No,Furnished,Houston,2203933
+5,2273,10,Yes,Semi-Furnished,Chicago,1728169
+4,3051,16,Yes,Semi-Furnished,Chicago,1852787
+4,2728,3,Yes,Furnished,San Jose,1657042
+4,1308,9,No,Furnished,San Diego,776893
+1,1478,1,No,Semi-Furnished,Los Angeles,221536
+5,2407,14,No,Furnished,Phoenix,1805853
+4,1243,12,No,Furnished,Houston,775525
+3,2757,11,Yes,Semi-Furnished,Houston,1264628
+1,4316,17,No,Unfurnished,Phoenix,651649
+4,3893,18,No,Furnished,Houston,2364703
+2,2928,2,No,Semi-Furnished,San Jose,878702
+5,628,9,No,Semi-Furnished,New York,463414
+1,2862,18,Yes,Semi-Furnished,Houston,441118
+1,4830,12,No,Furnished,New York,748774
+1,1980,12,Yes,Furnished,Chicago,300298
+5,3980,14,Yes,Unfurnished,Dallas,2985770
+3,4742,10,No,Semi-Furnished,San Antonio,2133833
+2,1455,7,No,Semi-Furnished,New York,433117
+5,3932,19,Yes,Furnished,San Antonio,2981488
+1,847,2,Yes,Unfurnished,Philadelphia,125674
+1,1349,6,Yes,Semi-Furnished,San Diego,225067
+4,518,15,Yes,Furnished,Chicago,328929
+1,2771,1,No,Unfurnished,Philadelphia,425985
+4,4136,8,Yes,Semi-Furnished,San Antonio,2491201
+2,581,12,Yes,Furnished,San Jose,181187
+4,834,1,Yes,Semi-Furnished,San Antonio,495383
+4,1608,2,Yes,Unfurnished,San Antonio,957765
+5,1483,17,Yes,Semi-Furnished,Chicago,1118629
+4,3328,10,No,Furnished,San Diego,2014356
+2,2669,10,Yes,Semi-Furnished,Los Angeles,800602
+2,2452,16,Yes,Unfurnished,San Jose,743776
+2,4867,9,Yes,Unfurnished,San Jose,1468032
+4,1652,9,No,Unfurnished,San Antonio,1014659
+5,1963,16,Yes,Unfurnished,San Jose,1479776
+5,4653,17,Yes,Semi-Furnished,San Diego,3519130
+3,4281,18,Yes,Furnished,Los Angeles,1955744
+5,3223,18,Yes,Semi-Furnished,Phoenix,2446436
+4,1396,15,No,Semi-Furnished,Philadelphia,845448
+4,4013,6,No,Furnished,New York,2419824
+2,4825,3,Yes,Furnished,San Antonio,1463698
+2,2051,10,Yes,Unfurnished,New York,631380
+5,3880,7,No,Unfurnished,Phoenix,2921534
+5,2860,18,No,Furnished,Philadelphia,2179190
+3,3257,14,Yes,Unfurnished,Chicago,1490201
+2,2604,2,Yes,Furnished,Chicago,775018
+5,1293,12,No,Furnished,Philadelphia,973870
+2,4459,3,Yes,Semi-Furnished,Phoenix,1345186
+3,1144,14,Yes,Unfurnished,Houston,547155
+5,606,11,Yes,Semi-Furnished,San Antonio,461005
+3,4857,6,No,Furnished,San Antonio,2209344
+4,1774,18,No,Furnished,Chicago,1094078
+5,1296,17,No,Furnished,San Diego,996076
+5,4734,8,No,Furnished,Phoenix,3578245
+1,1983,14,No,Unfurnished,New York,321888
+2,1055,6,Yes,Unfurnished,San Antonio,342336
+1,2170,7,No,Unfurnished,Houston,336833
+5,697,2,No,Unfurnished,Philadelphia,512369
+2,1123,1,No,Semi-Furnished,San Antonio,322655
+1,3859,4,No,Unfurnished,San Diego,601389
+5,832,9,No,Unfurnished,Philadelphia,632673
+2,3357,12,No,Unfurnished,Chicago,1007402
+5,3555,11,No,Furnished,San Antonio,2682146
+5,3140,4,No,Semi-Furnished,New York,2339561
+3,897,17,Yes,Semi-Furnished,Dallas,425370
+3,3568,3,No,Unfurnished,Philadelphia,1624742
+1,3208,15,Yes,Unfurnished,Philadelphia,515026
+3,3916,8,Yes,Furnished,Los Angeles,1789989
+4,4625,18,No,Furnished,Dallas,2787954
+5,1194,16,Yes,Semi-Furnished,Houston,899416
+3,2932,11,Yes,Furnished,Chicago,1334653
+4,4887,10,Yes,Unfurnished,New York,2930254
+3,3996,11,No,Semi-Furnished,Chicago,1802499
+5,1591,3,Yes,Semi-Furnished,Phoenix,1183118
+4,4494,12,No,Unfurnished,San Diego,2698106
+2,1038,7,Yes,Furnished,Philadelphia,312366
+2,536,6,Yes,Unfurnished,San Antonio,165959
+5,3255,17,Yes,Furnished,San Jose,2477410
+1,1653,1,Yes,Unfurnished,San Diego,235383
+5,1510,2,Yes,Unfurnished,Phoenix,1143615
+1,2162,5,Yes,Semi-Furnished,Los Angeles,350871
+5,2921,19,No,Furnished,Phoenix,2222440
+5,1624,3,No,Semi-Furnished,San Antonio,1206373
+1,4662,4,Yes,Furnished,New York,696067
+2,1671,17,Yes,Furnished,Philadelphia,541581
+5,802,5,Yes,Unfurnished,Philadelphia,630468
+5,602,10,Yes,Semi-Furnished,Dallas,470527
+5,1625,14,Yes,Furnished,Phoenix,1237275
+2,1063,8,No,Furnished,San Jose,342990
+4,1779,12,No,Unfurnished,San Jose,1084440
+2,2956,3,No,Semi-Furnished,Phoenix,904446
+4,2477,11,Yes,Unfurnished,Philadelphia,1500441
+3,776,11,Yes,Unfurnished,San Diego,346284
+2,1948,9,No,Semi-Furnished,Houston,583571
+5,4094,7,Yes,Furnished,Houston,3087907
+2,1859,19,Yes,Furnished,Los Angeles,596157
+2,3559,8,No,Semi-Furnished,Phoenix,1077207
+4,1293,11,No,Semi-Furnished,Houston,802855
+4,1836,16,Yes,Semi-Furnished,Phoenix,1139442
+2,1383,7,No,Furnished,San Jose,436541
+1,660,16,No,Furnished,San Antonio,119950
+3,2948,4,No,Unfurnished,Los Angeles,1328492
+2,2967,3,No,Semi-Furnished,San Antonio,900647
+1,2232,16,No,Unfurnished,Los Angeles,344526
+1,3954,9,No,Unfurnished,Phoenix,600101
+4,1436,14,No,Semi-Furnished,San Diego,860323
+3,4029,11,Yes,Unfurnished,Chicago,1823636
+3,727,19,No,Semi-Furnished,San Jose,362772
+1,2609,2,Yes,Semi-Furnished,Houston,406852
+2,1971,3,Yes,Semi-Furnished,Houston,608141
+3,4122,14,Yes,Furnished,San Diego,1858110
+1,4731,7,Yes,Furnished,Dallas,713726
+4,2581,6,Yes,Semi-Furnished,Los Angeles,1550823
+2,2563,1,No,Unfurnished,San Diego,779301
+3,1858,7,No,Furnished,Philadelphia,860975
+2,1230,7,Yes,Unfurnished,San Diego,385385
+3,1349,15,Yes,Semi-Furnished,Philadelphia,610513
+4,1573,12,No,Furnished,Phoenix,958482
+3,3973,7,Yes,Furnished,Phoenix,1789790
+2,3836,13,Yes,Semi-Furnished,New York,1161818
+4,4640,1,No,Unfurnished,Los Angeles,2798710
+4,1229,13,Yes,Furnished,New York,757361
+3,1426,4,Yes,Semi-Furnished,Phoenix,647458
+5,1665,4,No,Furnished,Dallas,1238123
+4,2199,14,Yes,Furnished,San Diego,1355788
+3,2079,6,Yes,Furnished,Phoenix,962002
+1,1209,7,No,Unfurnished,Phoenix,170454
+3,2509,8,Yes,Semi-Furnished,Philadelphia,1142083
+1,3006,15,Yes,Unfurnished,Phoenix,477147
+5,955,6,Yes,Unfurnished,Philadelphia,726665
+3,1069,6,No,Semi-Furnished,Philadelphia,478277
+3,682,11,No,Furnished,Chicago,304461
+3,3797,11,No,Unfurnished,New York,1722078
+2,2165,14,No,Unfurnished,San Antonio,676788
+1,1935,18,No,Semi-Furnished,Chicago,297716
+5,4967,11,Yes,Furnished,San Diego,3761022
+3,512,19,No,Furnished,Los Angeles,268401
+2,2799,9,No,Semi-Furnished,San Antonio,863887
+5,4784,8,No,Unfurnished,Philadelphia,3613275
+2,2465,10,Yes,Unfurnished,Dallas,743692
+5,4851,15,Yes,Unfurnished,Phoenix,3642210
+1,663,9,No,Unfurnished,Houston,121061
+2,4774,17,Yes,Furnished,San Jose,1447021
+3,1799,2,No,Unfurnished,Los Angeles,814260
+1,2412,19,No,Furnished,Philadelphia,372793
+3,4220,4,Yes,Unfurnished,Chicago,1901391
+1,3571,14,No,Furnished,Los Angeles,550772
+5,4819,15,No,Semi-Furnished,Chicago,3634747
+2,3210,1,Yes,Furnished,San Diego,952132
+1,1912,18,Yes,Unfurnished,San Jose,297148
+5,4709,16,Yes,Furnished,Chicago,3559520
+2,2697,5,No,Semi-Furnished,Los Angeles,808795
+5,4066,13,No,Semi-Furnished,Chicago,3051153
+1,1367,2,Yes,Semi-Furnished,Philadelphia,226690
+1,808,8,No,Furnished,Phoenix,143277
+3,3604,1,Yes,Unfurnished,Dallas,1641031
+4,3244,16,No,Semi-Furnished,Chicago,1948386
+4,1178,13,No,Semi-Furnished,Phoenix,709385
+5,2348,4,No,Semi-Furnished,Philadelphia,1767826
+5,3656,5,No,Semi-Furnished,Phoenix,2763923
+4,648,11,No,Semi-Furnished,San Antonio,413660
+5,4103,19,No,Semi-Furnished,Houston,3104341
+5,4834,5,No,Unfurnished,San Jose,3620608
+1,1327,12,Yes,Unfurnished,Dallas,222168
+3,4914,17,No,Unfurnished,Philadelphia,2243117
+1,1221,17,Yes,Unfurnished,Phoenix,198056
+1,2016,19,No,Furnished,San Jose,325851
+1,874,4,No,Semi-Furnished,San Antonio,147453
+1,3703,4,Yes,Furnished,New York,555488
+1,806,14,No,Semi-Furnished,Houston,146464
+2,687,13,No,Unfurnished,Houston,215942
+1,1279,4,No,Furnished,Chicago,191824
+4,2649,14,Yes,Semi-Furnished,New York,1592529
+3,841,18,No,Semi-Furnished,San Antonio,394530
+1,4925,17,Yes,Furnished,San Jose,760273
+2,4572,2,No,Furnished,San Antonio,1378867
+2,3337,2,Yes,Unfurnished,Los Angeles,1011390
+2,4923,12,Yes,Furnished,San Antonio,1478315
+5,3863,19,No,Furnished,San Jose,2908431
+5,3112,15,No,Unfurnished,Philadelphia,2351594
+3,4245,4,No,Furnished,San Jose,1901709
+4,4985,5,Yes,Furnished,San Antonio,2987200
+2,574,4,Yes,Semi-Furnished,San Diego,194689
+3,1551,4,Yes,Unfurnished,San Diego,708675
+3,2043,13,No,Semi-Furnished,Chicago,915262
+1,2941,15,Yes,Semi-Furnished,Philadelphia,468559
+2,3336,6,Yes,Unfurnished,San Antonio,1007008
+4,3515,15,Yes,Unfurnished,San Antonio,2135658
+5,4019,8,No,Unfurnished,Chicago,3026131
+4,4819,18,No,Furnished,Houston,2909525
+5,716,18,Yes,Unfurnished,San Jose,567417
+1,3602,3,Yes,Semi-Furnished,Chicago,555769
+5,4112,1,Yes,Semi-Furnished,Chicago,3086483
+2,1728,13,Yes,Unfurnished,New York,547790
+3,4227,3,No,Furnished,Houston,1889773
+1,3093,17,No,Furnished,Philadelphia,479875
+3,3105,2,No,Unfurnished,San Antonio,1393731
+1,3373,16,No,Semi-Furnished,Dallas,532369
+4,842,11,Yes,Semi-Furnished,San Diego,505093
+1,2202,17,Yes,Semi-Furnished,San Jose,371741
+2,3134,5,Yes,Furnished,San Antonio,940634
+2,2765,1,No,Semi-Furnished,San Antonio,850198
+5,4021,13,No,Furnished,Phoenix,3046437
+5,2491,5,No,Unfurnished,San Diego,1872481
+2,3678,11,Yes,Furnished,Chicago,1112905
+2,1748,17,Yes,Semi-Furnished,San Antonio,551184
+2,4708,8,No,Unfurnished,New York,1436900
+3,928,8,No,Semi-Furnished,Houston,438958
+1,2424,11,No,Furnished,New York,382514
+1,2217,18,Yes,Furnished,Dallas,350910
+2,4798,10,Yes,Furnished,Philadelphia,1469847
+2,3649,12,Yes,Furnished,Dallas,1095169
+1,4736,14,Yes,Unfurnished,Houston,712684
+2,1036,6,No,Semi-Furnished,Los Angeles,298515
+4,1741,8,No,Semi-Furnished,Chicago,1062332
+4,2477,16,Yes,Furnished,San Jose,1489934
+4,4137,8,Yes,Unfurnished,San Diego,2479713
+2,2028,16,No,Semi-Furnished,Philadelphia,621486
+1,3771,7,No,Unfurnished,Los Angeles,583775
+3,3694,12,No,Unfurnished,Los Angeles,1665644
+2,4770,12,Yes,Unfurnished,San Diego,1448709
+2,1334,16,No,Semi-Furnished,San Diego,425745
+5,4628,6,No,Semi-Furnished,Chicago,3478677
+5,3186,12,No,Semi-Furnished,Philadelphia,2388039
+2,2833,12,No,Unfurnished,Phoenix,849360
+1,615,15,No,Unfurnished,Chicago,92420
+1,2092,3,Yes,Furnished,New York,336653
+2,4056,9,No,Unfurnished,San Diego,1233114
+5,4325,8,No,Semi-Furnished,Phoenix,3239065
+2,759,18,Yes,Furnished,San Jose,260624
+5,3167,2,Yes,Unfurnished,New York,2365553
+2,4023,9,No,Furnished,San Antonio,1232618
+5,1136,16,Yes,Furnished,New York,889628
+3,1495,17,Yes,Semi-Furnished,Los Angeles,682369
+2,4321,18,Yes,Semi-Furnished,San Antonio,1301566
+1,3207,11,No,Furnished,San Antonio,473083
+3,3669,6,No,Semi-Furnished,New York,1661452
+3,3750,1,Yes,Semi-Furnished,Chicago,1682566
+1,1018,10,Yes,Semi-Furnished,Los Angeles,179925
+5,3234,8,No,Semi-Furnished,Chicago,2441680
+4,3307,12,No,Unfurnished,San Antonio,1986890
+1,1483,13,No,Furnished,Chicago,225091
+1,3578,8,No,Furnished,San Jose,540715
+5,3157,14,No,Furnished,San Antonio,2388752
+3,586,17,No,Unfurnished,New York,278450
+5,3695,8,Yes,Furnished,Los Angeles,2786497
+1,4959,8,Yes,Furnished,New York,761856
+4,1377,3,No,Semi-Furnished,San Diego,814495
+2,858,8,No,Unfurnished,Dallas,265465
+2,3124,4,Yes,Unfurnished,Phoenix,962920
+1,2979,14,No,Unfurnished,Phoenix,477384
+4,2044,2,Yes,Unfurnished,Chicago,1219989
+5,4788,17,Yes,Semi-Furnished,Houston,3615493
+5,1676,5,Yes,Unfurnished,Los Angeles,1266049
+2,3776,2,Yes,Furnished,Los Angeles,1120847
+5,4111,5,Yes,Semi-Furnished,Los Angeles,3110565
+2,2121,5,Yes,Unfurnished,San Jose,642370
+3,754,14,No,Unfurnished,San Antonio,369575
+4,2946,6,Yes,Furnished,Chicago,1791007
+3,4063,3,Yes,Unfurnished,Chicago,1848743
+4,2224,16,Yes,Unfurnished,Los Angeles,1342269
+4,1764,8,Yes,Semi-Furnished,New York,1077595
+5,1573,10,No,Semi-Furnished,San Jose,1207968
+5,3161,7,No,Furnished,Dallas,2378307
+4,3239,5,Yes,Unfurnished,New York,1969850
+2,1560,11,No,Unfurnished,Houston,465743
+1,2632,3,Yes,Unfurnished,San Antonio,400560
+4,4502,12,Yes,Semi-Furnished,San Antonio,2703298
+2,2949,5,No,Furnished,Chicago,908643
+5,4281,6,Yes,Furnished,Chicago,3211317
+2,3928,2,No,Unfurnished,Houston,1174553
+1,4036,18,No,Furnished,San Diego,607383
+3,761,7,Yes,Semi-Furnished,Los Angeles,371419
+2,4675,4,Yes,Semi-Furnished,New York,1429456
+2,4646,16,Yes,Semi-Furnished,San Diego,1434646
+2,1789,6,No,Furnished,Phoenix,538036
+1,3988,16,Yes,Furnished,Los Angeles,639023
+5,2558,10,No,Semi-Furnished,Dallas,1936134
+2,4594,6,Yes,Unfurnished,San Diego,1369456
+3,4506,10,No,Semi-Furnished,Houston,2040187
+2,3022,12,Yes,Semi-Furnished,San Diego,930915
+4,4577,11,Yes,Semi-Furnished,Chicago,2756640
+5,3623,14,No,Semi-Furnished,San Jose,2720824
+3,2195,8,Yes,Unfurnished,San Jose,1005922
+4,2149,8,No,Semi-Furnished,San Jose,1289800
+5,3881,19,Yes,Semi-Furnished,San Antonio,2927033
+1,4259,13,Yes,Unfurnished,Los Angeles,642607
+1,1167,18,No,Furnished,Los Angeles,212954
+5,1603,13,No,Unfurnished,Chicago,1218065
+3,610,19,No,Furnished,San Antonio,282496
+3,4858,17,No,Furnished,Dallas,2186788
+1,3925,9,Yes,Furnished,New York,600052
+2,1339,1,No,Unfurnished,San Jose,415416
+5,2177,11,Yes,Furnished,Philadelphia,1660184
+4,631,9,No,Unfurnished,Houston,374826
+5,3072,11,Yes,Unfurnished,San Jose,2332155
+5,1793,18,Yes,Semi-Furnished,Phoenix,1385989
+3,1866,2,No,Unfurnished,Phoenix,831615
+5,3249,19,Yes,Furnished,Dallas,2444266
+1,4972,12,No,Unfurnished,Chicago,764700
+2,954,3,No,Furnished,San Antonio,299422
+5,1857,1,No,Unfurnished,San Diego,1381147
+2,2983,5,Yes,Unfurnished,San Antonio,918588
+2,1407,7,Yes,Unfurnished,San Diego,452887
+4,4086,2,No,Unfurnished,San Diego,2450612
+2,4732,14,Yes,Furnished,Philadelphia,1451787
+5,1562,8,No,Furnished,Dallas,1198675
+3,3343,1,No,Furnished,San Diego,1514754
+1,1185,1,Yes,Furnished,Los Angeles,192724
+5,3583,4,No,Furnished,Houston,2689332
+1,4953,7,Yes,Unfurnished,Chicago,756981
+2,4682,5,Yes,Furnished,Dallas,1420280
+5,628,1,No,Semi-Furnished,Phoenix,489185
+5,3161,14,Yes,Semi-Furnished,San Jose,2376884
+5,1684,14,Yes,Unfurnished,Houston,1296843
+4,4343,19,No,Semi-Furnished,San Jose,2644768
+5,1222,10,No,Furnished,New York,943148
+4,3454,9,No,Furnished,Houston,2089375
+4,693,5,No,Furnished,San Antonio,432733
+1,2648,10,No,Furnished,Houston,415524
+5,3078,4,Yes,Furnished,San Jose,2305336
+4,3127,15,No,Furnished,Dallas,1878444
+2,1525,1,Yes,Unfurnished,San Jose,453265
+3,1219,5,Yes,Furnished,New York,546516
+5,3424,9,Yes,Semi-Furnished,San Jose,2577794
+5,998,1,No,Unfurnished,Phoenix,754930
+3,1911,8,Yes,Semi-Furnished,Phoenix,874092
+1,1436,13,No,Furnished,Dallas,228523
+3,2919,1,No,Semi-Furnished,Philadelphia,1319581
+3,2913,4,Yes,Furnished,Houston,1319290
+2,4291,18,No,Unfurnished,San Jose,1291779
+1,3090,7,No,Unfurnished,Phoenix,480989
+3,3845,17,Yes,Semi-Furnished,Chicago,1747761
+4,2529,7,Yes,Semi-Furnished,San Antonio,1532973
+2,3966,9,Yes,Semi-Furnished,San Jose,1199507
+2,711,16,Yes,Unfurnished,San Antonio,240114
+2,4625,16,Yes,Semi-Furnished,San Antonio,1391938
+2,2186,8,No,Semi-Furnished,San Diego,652635
+2,3897,11,No,Furnished,Phoenix,1160233
+2,4633,4,No,Semi-Furnished,Philadelphia,1378363
+4,2248,14,Yes,Unfurnished,Houston,1386702
+1,3234,11,No,Unfurnished,Philadelphia,498816
+5,2324,7,Yes,Furnished,Houston,1764727
+3,3309,2,Yes,Semi-Furnished,San Jose,1476407
+3,1699,3,No,Semi-Furnished,San Diego,756579
+1,3652,6,No,Unfurnished,New York,543286
+4,815,14,No,Semi-Furnished,San Jose,489723
+4,1495,12,Yes,Unfurnished,Chicago,896186
+2,4717,8,Yes,Semi-Furnished,San Diego,1427113
+2,3544,9,Yes,Unfurnished,Chicago,1075205
+3,2439,8,No,Furnished,Philadelphia,1119263
+1,2464,1,No,Unfurnished,Phoenix,368299
+3,3382,16,No,Semi-Furnished,New York,1546203
+1,2253,18,No,Furnished,San Diego,369090
+1,4945,14,Yes,Semi-Furnished,San Jose,767331
+3,3855,2,No,Unfurnished,Houston,1736895
+4,1000,5,No,Furnished,San Diego,618131
+4,4933,19,Yes,Unfurnished,San Antonio,2992532
+5,1020,16,No,Furnished,Dallas,794399
+5,4516,17,No,Semi-Furnished,Los Angeles,3406924
+3,2322,15,No,Furnished,Houston,1040678
+4,1749,9,No,Unfurnished,San Diego,1054865
+4,3002,3,Yes,Semi-Furnished,Los Angeles,1799087
+3,4726,10,Yes,Unfurnished,San Diego,2132818
+3,2443,14,Yes,Semi-Furnished,San Jose,1138141
+4,4252,5,No,Unfurnished,Phoenix,2536296
+5,4748,1,No,Unfurnished,New York,3555356
+1,3185,10,Yes,Semi-Furnished,Philadelphia,490279
+5,3808,12,No,Furnished,San Diego,2857704
+5,4764,2,No,Furnished,Phoenix,3555056
+2,4755,12,No,Furnished,Phoenix,1447967
+4,1191,3,Yes,Semi-Furnished,Phoenix,734988

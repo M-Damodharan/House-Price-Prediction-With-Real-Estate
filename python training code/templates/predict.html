@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Predict Home Price</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Inline CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 600px;
+            margin-top: 50px;
+        }
+        .card {
+            border: 1px solid #dedede;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+        h1, h2 {
+            color: #343a40;
+        }
+        .prediction-result {
+            margin-top: 20px;
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">Home Details for Price Prediction</a>
+    </nav>
+
+    <div class="container">
+        <h1 class="text-center mb-4"> </h1>
+        
+        <div class="card">
+            <form action="/make_prediction" method="POST">
+                <div class="form-group mb-3">
+                    <label>BHK:</label>
+                    <input type="number" name="BHK" class="form-control" required>
+                </div>
+                
+                <div class="form-group mb-3">
+                    <label>Build Area (sq. ft.):</label>
+                    <input type="number" name="Build_Area" class="form-control" required>
+                </div>
+                
+                <div class="form-group mb-3">
+                    <label>Total Floors:</label>
+                    <input type="number" name="Total_Floors" class="form-control" required>
+                </div>
+                
+                <div class="form-group mb-3">
+                    <label>Parking:</label>
+                    <select name="Parking" class="form-control" required>
+                        <option value=" "> </option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                    </select>
+                </div>
+                
+                <div class="form-group mb-3">
+                    <label>Furnishing:</label>
+                    <select name="Furnishing" class="form-control" required>
+                        <option value=" "> </option>
+                        <option value="Furnished">Furnished</option>
+                        <option value="Unfurnished">Unfurnished</option>
+                        <option value="Semi-Furnished">Semi-Furnished</option>
+                    </select>
+                </div>
+                
+                <div class="form-group mb-3">
+                    <label>Location:</label>
+                    <select name="Location" class="form-control" required>
+                        <option value=" "> </option>
+                        <option value="adyar">Adyar</option>
+                        <option value="annanagar">Anna Nagar</option>
+                        <option value="ashoknagar">Ashok Nagar</option>
+                        <option value="besantnagar">Besant Nagar</option>
+                        <option value="chromepet">Chromepet</option>
+                        <option value="egmore">Egmore</option>
+                        <option value="guindy">Guindy</option>
+                        <option value="kilpauk">Kilpauk</option>
+                        <option value="kodambakkam">Kodambakkam</option>
+                        <option value="madipakkam">Madipakkam</option>
+                        <option value="maduravoyal">Maduravoyal</option>
+                        <option value="mylapore">Mylapore</option>
+                        <option value="nungambakkam">Nungambakkam</option>
+                        <option value="pallavaram">Pallavaram</option>
+                        <option value="perambur">Perambur</option>
+                        <option value="porur">Porur</option>
+                        <option value="saidapet">Saidapet</option>
+                        <option value="tambaram">Tambaram</option>
+                        <option value="taramani">Taramani</option>
+                        <option value="thiruvanmiyur">Thiruvanmiyur</option>
+                        <option value="tnagar">T. Nagar</option>
+                        <option value="vadapalani">Vadapalani</option>
+                        <option value="velachery">Velachery</option>
+                        <option value="virugambakkam">Virugambakkam</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="btn btn-primary btn-block">Predict Price</button>
+            </form>
+            
+            {% if prediction %}
+                <div class="prediction-result text-center">
+                    <h2 class="mt-4">Predicted Price: {{ prediction }}</h2>
+                    <button class="btn btn-secondary mt-3" onclick="window.location.href='/'">Back to Home</button>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (Optional) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
