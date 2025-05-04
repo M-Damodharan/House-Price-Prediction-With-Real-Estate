@@ -25,11 +25,11 @@ Property type (apartment, house, etc.)
 
 Getting Started:
 Clone the repository:
-# bash Copy Edit
-    git clone https://github.com/YourUsername/House-Price-Prediction-Bengaluru.git
+# Bash 
+    git clone https://github.com/M-Damodharan/House-Price-Prediction-Bengaluru.git
 Install the required dependencies:
 
-# bash Copy Edit
+# Bash 
       pip install -r requirements.txt
 Explore and run the Jupyter notebook house_price_prediction_bengaluru.ipynb for detailed analysis and predictions.
 
