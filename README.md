@@ -26,7 +26,7 @@ Property type (apartment, house, etc.)
 Getting Started:
 Clone the repository:
 # Bash 
-    git clone https://github.com/M-Damodharan/House-Price-Prediction-Real-Estate.git
+    git clone https://github.com/M-Damodharan/House-Price-Prediction-With-Real-Estate.git
 Install the required dependencies:
 
 # Bash 
